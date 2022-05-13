@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a freelance developer, currently doing mostly backend development with Laravel and Express.js.
+
+- 📫 How to reach me: get in touch with `ali_shalior@proton.me` 🤝
+- 🌱 I’m currently learning and exploring modern DevOps solutions.
 <!--
 **shalior/shalior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
